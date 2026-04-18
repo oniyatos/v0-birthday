@@ -15,10 +15,10 @@ import { motion, AnimatePresence } from "framer-motion"
 
 // Customize these details for your invitation
 const INVITATION_DATA = {
-  babyName: "Be Bot",
-  parentNames: "Gia dinh Tong Trieu Long",
-  eventDate: "Chu Nhat, 04 Thang 2, 2026",
-  eventTime: "10:00 Sang",
+  babyName: "Bé Bột",
+  parentNames: "Gia đình Tống Triệu Long - Lê Phương Anh",
+  eventDate: "Chủ Nhật, 04 Thang 2, 2026",
+  eventTime: "18:00 - 21:00 Tối",
   venue: "Nha Hang ABC",
   address: "123 Duong XYZ, quan abc, tp hn",
   mapsUrl: "https://maps.google.com/?q=10.7769,106.7009",
