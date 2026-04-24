@@ -17,7 +17,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 const INVITATION_DATA = {
 	babyName: 'Tống Đức An Khôi',
 	parentNames: 'Gia đình Tống Triệu Long - Lê Phương Anh',
-	eventDate: 'Thứ Ba, 05 Tháng 2, 2026',
+	eventDate: 'Thứ Ba, 05 Tháng 5 2026',
 	eventTime: '18:00 - 21:00 Tối',
 	venue: 'Nhà hàng Lion Sky',
 	address: '150 Đường Trường Chinh, Đống Đa, Hà Nội',
