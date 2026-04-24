@@ -139,8 +139,7 @@ export function InvitationLetter({
 						<p className='text-lg'>Kính gửi quý khách,</p>
 
 						<p>
-							Chúng tôi vô cùng hạnh phúc được thông báo rằng con yêu của chúng
-							tôi,{' '}
+							Chúng tôi rất hạnh phúc được thông báo rằng con yêu của chúng tôi,{' '}
 							<span
 								className='font-semibold gradient-text-static text-lg'
 								style={{ fontFamily: 'var(--font-cursive)' }}
