@@ -77,7 +77,7 @@ export function Footer({ babyName }: FooterProps) {
           className="text-sm mb-4"
           style={{ color: "#6b8cae" }}
         >
-          Cam on quy khach da danh thoi gian
+          Cảm ơn quý khách đã dành thời gian
         </motion.p>
         
         {/* Family name */}

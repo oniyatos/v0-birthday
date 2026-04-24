@@ -108,9 +108,6 @@ export function PhotoGallery() {
 				</motion.div>
 			</div>
 
-			<p className='text-center text-sm text-slate-400 mt-4'>
-				Chạm vào ảnh để xem kỹ hơn
-			</p>
 		</section>
 	)
 }
@@ -166,7 +163,6 @@ function PhotoCard({
 			}}
 			className='flex-shrink-0 cursor-pointer'
 		>
-			{/* ĐÃ FIX: Ảnh nhỏ gọn hơn (w-60 h-80 hoặc md:w-72 md:h-96) */}
 			<motion.div
 				animate={{
 					scale: isHovered ? 1.05 : 1,

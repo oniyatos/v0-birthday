@@ -113,7 +113,7 @@ export function EventDetails({
 
 							<Button
 								asChild
-								className='w-full h-14 rounded-2xl text-base font-bold text-white border-0 shadow-[0_8px_30px_rgba(236,72,153,0.3)] bg-gradient-to-r from-pink-400 to-sky-400 hover:from-pink-500 hover:to-sky-500 transition-all hover:scale-[1.02]'
+								className='w-full h-22 rounded-2xl text-base font-bold text-white border-0 shadow-[0_8px_30px_rgba(236,72,153,0.3)] bg-gradient-to-r from-pink-400 to-sky-400 hover:from-pink-500 hover:to-sky-500 transition-all hover:scale-[1.02]'
 							>
 								<a href={mapsUrl} target='_blank' rel='noopener noreferrer'>
 									<Navigation className='w-5 h-5 mr-2 animate-bounce' />
